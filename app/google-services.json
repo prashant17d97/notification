@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923209376240",
+    "project_id": "gcmdemo-f74d9",
+    "storage_bucket": "gcmdemo-f74d9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923209376240:android:d69fe6e66f8a6663d57d35",
+        "android_client_info": {
+          "package_name": "com.prashant.gcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUq1Jz73Y_w0etXYgqZ9wXF1f4wuCjBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
